@@ -33,7 +33,6 @@ def count():
 
 def test():
     print("Let's test your programming knowledge.")
-    # write your code here
     print("Why?")
     print("1. Well idk")
     print("2. Now, Well i don't know")
